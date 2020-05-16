@@ -20,7 +20,7 @@
   <a href="#memo-license">Licence</a>
 </p>
 
-## :rocket: Fontend Technologies
+## :rocket: Frontend Technologies
 
 This project was developed with the following technologies:
 
