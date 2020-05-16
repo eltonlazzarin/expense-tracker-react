@@ -20,7 +20,10 @@
   <a href="#memo-license">Licence</a>
 </p>
 
-## :rocket: Frontend Technologies
+## :rocket: Frontend Technologies (WebApp)
+
+<p align="center"> 
+<img alt="Tracker expenser app" src="https://github.com/eltonlazzarin/expense-tracker-react/blob/master/screenshots/expensetracker.gif">
 
 This project was developed with the following technologies:
 
