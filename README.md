@@ -15,7 +15,7 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/expense-tracker-react">
 
 <p align="center">
-  <a href="#rocket-mobile-technologies">Frontend Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-frontend-technologies">Frontend Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">Licence</a>
 </p>
