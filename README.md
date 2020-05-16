@@ -1,4 +1,4 @@
-# expense-tracker-react
+# expense-tracker-reactss
 
 Expense tracker developed with ReactJS
 
