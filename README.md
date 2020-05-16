@@ -1,13 +1,9 @@
-# expense-tracker-reactss
-
-Expense tracker developed with ReactJS
-
 <h1 align="center"> 
   <img src="https://github.com/eltonlazzarin/expense-tracker-react/blob/master/screenshots/assets/banktransactions.svg" alt="Logo" height="150px" width="150px" />
 </h1>
 
 <h4 align="center">
-  Pomodoro Timer is a simple mobile app built with Expo
+  Expense tracker developed with ReactJS
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/expense-tracker-react">
