@@ -15,44 +15,38 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/expense-tracker-react">
 
 <p align="center">
-  <a href="#rocket-mobile-technologies">Mobile Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-mobile-technologies">Frontend Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">Licence</a>
 </p>
 
-## :rocket: Mobile Technologies
+## :rocket: Fontend Technologies
 
 This project was developed with the following technologies:
 
-- [Expo](https://expo.io/)
-- [react-native-gesture-handler](https://docs.expo.io/versions/latest/sdk/gesture-handler/)
-- [react-native-web](https://code.visualstudio.com)
-- [react-native-safe-area-context](https://docs.expo.io/versions/v33.0.0/introduction/running-in-the-browser/)
-- [expo-av](https://docs.expo.io/versions/latest/sdk/av/)
-- [expo-linear-gradient](https://docs.expo.io/versions/latest/sdk/linear-gradient)
-- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig), [Prettier RC](https://github.com/prettier/prettier), [eslint](https://eslint.org/) and [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
+- [ReactJS](https://reactjs.org/)
+- [react-switch](https://github.com/react-component/switch)
+- [typescript](https://github.com/microsoft/TypeScript)
+- [react-hamburger-menu](https://github.com/negomi/react-burger-menu)
+- [styled-components](https://www.styled-components.com/)
+- [polished](https://github.com/styled-components/polished)
+- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## :information_source: How To Use
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/eltonlazzarin/expo-pomodoro-app.git
+$ git clone https://github.com/eltonlazzarin/expense-tracker-react
 
 # Go into the repository
-$ cd expo-pomodoro-app
+$ cd expense-tracker-react
 
 # Install dependencies
 $ yarn
 
-# Run Expo app
+# Run the app
 $ yarn start
 ```
-
-## Install the app on a physical phone
-
-1. Go to your app store, look for the app called <strong>Expo</strong>, and install it on your device.
-
-2. With the app installed, open it and click on <strong>Scan QR Code</strong>, point the camera phone to the QR code shown on the page that opened after executing the command yarn start and ready, the app will load and be ready for use.
 
 ## :memo: License
 
