@@ -28,12 +28,8 @@
 This project was developed with the following technologies:
 
 - [ReactJS](https://reactjs.org/)
-- [react-switch](https://github.com/react-component/switch)
-- [typescript](https://github.com/microsoft/TypeScript)
-- [react-hamburger-menu](https://github.com/negomi/react-burger-menu)
-- [styled-components](https://www.styled-components.com/)
-- [polished](https://github.com/styled-components/polished)
-- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
+- [React Router v16.12](https://github.com/ReactTraining/react-router)
+- [VS Code](https://code.visualstudio.com)
 
 ## :information_source: How To Use
 
