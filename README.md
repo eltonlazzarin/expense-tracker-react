@@ -15,12 +15,12 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/expense-tracker-react">
 
 <p align="center">
-  <a href="#rocket-frontend-technologies-(webapp)">Frontend Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-frontend-technologies">Frontend Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">Licence</a>
 </p>
 
-## :rocket: Frontend Technologies (WebApp)
+## :rocket: Frontend Technologies
 
 <p align="center"> 
 <img alt="Tracker expenser app" src="https://github.com/eltonlazzarin/expense-tracker-react/blob/master/screenshots/expensetracker.gif">
