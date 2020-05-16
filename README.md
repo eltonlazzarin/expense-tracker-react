@@ -1,7 +1,7 @@
 <h1 align="center"> 
   <img src="https://github.com/eltonlazzarin/expense-tracker-react/blob/master/screenshots/assets/banktransactions.svg" alt="Logo" height="150px" width="150px" />
   <br>
-  Bank tracker transactions
+  Bank transactions tracker
 </h1>
 
 <h4 align="center">
